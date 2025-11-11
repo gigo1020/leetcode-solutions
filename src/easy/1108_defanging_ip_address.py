@@ -9,6 +9,7 @@ class Solution:
         return address.replace(".", "[.]")
 
 
+"""
 solution = Solution()
 
 # Пример 1
@@ -20,3 +21,4 @@ print(f"Пример 1: {test1} → {result1}")
 test2 = "255.100.50.0"
 result2 = solution.defangIPaddr(test2)
 print(f"Пример 2: {test2} → {result2}")
+"""
